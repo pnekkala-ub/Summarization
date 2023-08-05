@@ -22,4 +22,4 @@
 
 [ProphentNet ptretrained model finetuning and evaluation](prophetNet.ipynb)
 
-[Pegasus pretrained model finetuning and evaluaiton](pegasus model.ipynb)
+[Pegasus pretrained model finetuning and evaluaiton](pegasus-model.ipynb)
