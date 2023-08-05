@@ -18,8 +18,8 @@
 
 [GPT2 pretrained model finetuning and evaluation](GPT2.ipynb)
 
-[T5 pretrained model finetuning and evaluation](T5_Final.ipynb)
+[T5 pretrained model finetuning and evaluation](T5-Model.ipynb)
 
 [ProphentNet ptretrained model finetuning and evaluation](prophetNet.ipynb)
 
-[Pegasus pretrained model finetuning and evaluaiton](pegasus_final.ipynb)
+[Pegasus pretrained model finetuning and evaluaiton](pegasus model.ipynb)
